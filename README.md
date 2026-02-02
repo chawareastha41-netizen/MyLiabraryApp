@@ -1,3 +1,1 @@
-## Project Output
-
-![Library App Output](Screenshot%20(1).png)
+![Project Output](screenshot1.png)
