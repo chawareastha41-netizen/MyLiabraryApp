@@ -1,0 +1,10 @@
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\bin\Debug\MyLiabraryApp.exe.config
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\bin\Debug\MyLiabraryApp.exe
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\bin\Debug\MyLiabraryApp.pdb
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\obj\Debug\MyLiabraryApp.csproj.AssemblyReference.cache
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\obj\Debug\MyLiabraryApp.Form1.resources
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\obj\Debug\MyLiabraryApp.Properties.Resources.resources
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\obj\Debug\MyLiabraryApp.csproj.GenerateResource.cache
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\obj\Debug\MyLiabraryApp.csproj.CoreCompileInputs.cache
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\obj\Debug\MyLiabraryApp.exe
+C:\Users\chawa\source\repos\MyLiabraryApp\MyLiabraryApp\obj\Debug\MyLiabraryApp.pdb
